@@ -1,6 +1,6 @@
 - 👋 Hi, I’m akshay
 - 👀 I’m interested in eat, code and travell...
-- 🌱 I’m currently learning new technologies that changes our day to day lives
+- 🌱 I’m currently learning MERN Stack 
 - 💞️ I’m looking to collaborate on interesting and complex software applications...
 - 📫 Portfolio: https://akshaynextjsportfolio.netlify.app/
 
