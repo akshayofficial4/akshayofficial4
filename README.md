@@ -13,6 +13,7 @@ I’m looking to collaborate on open source projects
 - TypeScript
 - Angular
 - java
+- Web 3 technologies
 
 ## 💬 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/akshay-sunil7034/
